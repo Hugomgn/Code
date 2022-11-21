@@ -1,8 +1,8 @@
-#include <iostream>
+#include <iostream> // Directives de préprocesseurs
 
-int main()
+int main() // Fonction principale
 {
-  std::cout << "Hello World !" << std::endl;
+  std::cout << "Hello World !" << std::endl; //afficher Hello world, puis revenir a la ligne
 
-  return 0;
+  return 0; // retourner 0, fin du programme.
 }
