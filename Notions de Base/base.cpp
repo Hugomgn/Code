@@ -1,4 +1,4 @@
-#include <iostream> // Directives de préprocesseurs
+#include <iostream> // Directive de préprocesseur : Bibliothèques input/output standard.
 
 int main() // Fonction principale
 {
