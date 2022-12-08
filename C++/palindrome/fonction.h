@@ -1,0 +1,1 @@
+bool estPalindrome(char *s);
